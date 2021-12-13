@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Add_HW_2"
